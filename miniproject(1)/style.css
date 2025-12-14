@@ -1,0 +1,38 @@
+body {
+    background-image:url(images/abstract-dark-blurred-background-smooth-gradient-texture-color-shiny-bright-website-pattern-banner-header-sidebar-graphic-art-image_1258-82927.avif);
+}
+h1 {
+    text-align: center;
+}
+
+p{
+    font-family: "roboto", sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+}
+#main {
+
+    background-color: rgb(225, 195, 154);
+    min-width: 40%;
+    max-width: 60%;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+img {
+    display: block;
+    width: 80%;
+    height: 300px;
+    margin: 40px auto;
+    border-radius: 10px;
+}
+input{
+    display: block;
+    margin: 10px;
+}
+button {
+    display: block;
+    margin:20px;
+}
